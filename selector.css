@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.student-card{
+    width: 500px;
+    background-color: lightblue;
+    padding: 20px;
+    border: 2px solid;
+    margin: 10px;
+    text-align: center;
+}
+
+.student-container{
+    border: 1px solid;
+    display: flex ;
+    justify-content: center;
+    gap: 20px;
+    /*flex-wrap:wrap; */
+}
+
+#main-heading{
+    text-align: center;
+    margin: 20px;
+    padding: 30px;
+
+}
+
